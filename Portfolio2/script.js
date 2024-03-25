@@ -5,3 +5,4 @@ menuIcon.onclick=() => {
     menuIcon.classList.toggle('fa-xmark');
     navbar.classList.toggle('active');
 }
+
